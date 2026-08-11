@@ -1,0 +1,21 @@
+{
+  "name": "Senior Engineer Interview Prep Hub",
+  "short_name": "Interview Prep",
+  "start_url": "/ip/",
+  "display": "standalone",
+  "background_color": "#f5f4f0",
+  "theme_color": "#2563eb",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "https://santuparashetti.github.io/ip/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://santuparashetti.github.io/ip/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
